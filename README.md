@@ -1,4 +1,5 @@
 <h2 align="left">Hey!!! I'm Dinithi Anthony👩‍💻, an AI & Data Science undergraduate... who’s all about training models 🤖 and building intelligent solutions!</h2>
+---
 
 ###
 
@@ -9,6 +10,15 @@
 ###
 
 <p align="left">I'm a full-stack developer and AI & Data Science undergraduate passionate about building smart solutions. With experience in Python, Java, and web development, I focus on machine learning and data-driven applications. .I'm always looking to apply my skills to solve real-world challenges and collaborate on innovative AI solutions.</p>
+
+###
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dinithiii04&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dinithiii04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
