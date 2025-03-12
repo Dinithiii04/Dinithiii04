@@ -1,5 +1,5 @@
 <h2 align="left">Hey!!! I'm Dinithi Anthony👩‍💻, an AI & Data Science undergraduate... who’s all about training models 🤖 and building intelligent solutions!</h2>
----
+
 
 ###
 
