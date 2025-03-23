@@ -1,17 +1,16 @@
 <h2 align="left">Hey!!! I'm Dinithi Anthony👩‍💻, an AI & Data Science undergraduate... who’s all about training models 🤖 and building intelligent solutions!</h2>
 
+###
+
+<div align="center">
+  <img align="center" height="150" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"  />
+  <br/>
+  <a href="https://www.dinithi.space" target="_blank"><strong>🌐 Check out my portfolio here!</strong></a>
+</div>
 
 ###
 
-<img align="center" height="150" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"  />
-
-###
-
-###
-
-<p align="left">I'm a full-stack developer and AI & Data Science undergraduate passionate about building smart solutions. With experience in Python, Java, and web development, I focus on machine learning and data-driven applications. .I'm always looking to apply my skills to solve real-world challenges and collaborate on innovative AI solutions.</p>
-
-###
+<p align="left">I'm a full-stack developer and AI & Data Science undergraduate passionate about building smart solutions. With experience in Python, Java, and web development, I focus on machine learning and data-driven applications. I'm always looking to apply my skills to solve real-world challenges and collaborate on innovative AI solutions.</p>
 
 ###
 
@@ -83,9 +82,6 @@
   <a href="mailto:dinithimandakini04@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
   </a>
-  <a href="" target="_blank">  
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
-  </a>
 </div>
 
 ---
@@ -93,5 +89,3 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Dinithiii04/Dinithiii04/output/snake.svg" alt="Snake animation" />
-
-###
